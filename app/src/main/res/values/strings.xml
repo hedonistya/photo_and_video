@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">photo_and_video</string>
+  <string name="welcome_to_pohuy">Welcome to Похуй</string>
+  <string name="start_main_text">Best and popular apps for live education course from home</string>
+  <string name="get_started">Get started</string>
+  <string name="photo">Photo</string>
+  <string name="video">Video</string>
+</resources>
